@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\dell\desktop\学习资料\数据结构与算法\lab6\lab6\bst.h(39): warning C4172: 返回局部变量或临时变量的地址: parent
+c:\users\dell\desktop\学习资料\数据结构与算法\lab6\lab6\bst.h(76): warning C4715: “Insert”: 不是所有的控件路径都返回值
+c:\users\dell\desktop\学习资料\数据结构与算法\lab6\lab6\bst.h(166): warning C4715: “search”: 不是所有的控件路径都返回值
+  lab6.vcxproj -> C:\Users\dell\Desktop\学习资料\数据结构与算法\lab6\Debug\lab6.exe
+  lab6.vcxproj -> C:\Users\dell\Desktop\学习资料\数据结构与算法\lab6\Debug\lab6.pdb (Partial PDB)
